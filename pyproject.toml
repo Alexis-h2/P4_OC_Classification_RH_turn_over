@@ -1,5 +1,5 @@
 [project]
-name = "P4_OC_Classification_RH_turn_over"
+name = "p4-oc-classification-rh-turn-over"
 version = "0.1.0"
 requires-python = ">=3.13.17,<3.14"
 dependencies = [
@@ -11,3 +11,6 @@ dependencies = [
     "seaborn",
     "fg-data-profiling"
 ]
+
+[tool.poetry]
+package-mode = false

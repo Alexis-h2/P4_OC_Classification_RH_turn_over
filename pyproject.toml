@@ -1,0 +1,13 @@
+[project]
+name = "P4_OC_Classification_RH_turn_over"
+version = "0.1.0"
+requires-python = ">=3.13.17,<3.14"
+dependencies = [
+    "ipykernel",
+    "pandas",
+    "numpy",
+    "scikit-learn",
+    "matplotlib",
+    "seaborn",
+    "fg-data-profiling"
+]

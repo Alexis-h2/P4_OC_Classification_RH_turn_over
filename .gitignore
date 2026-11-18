@@ -187,3 +187,4 @@ cython_debug/
 /prints présentation
 *.zip
 /Fichiers fournis OC
+catboost_info/
